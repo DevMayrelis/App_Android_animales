@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animalkingdom app</string>
+    <string name="animal">Animal</string>
+    <string name="descripci_n_del_animal">Descripción del animal</string>
+</resources>
